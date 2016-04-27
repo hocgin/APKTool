@@ -20,7 +20,7 @@
 sh "APK Crack.sh" [app.apk]
 
 # 重新打包
-sh "APK Bale.sh" [smaill dir]
+sh "APK Bale.sh" [smail dir]
 
 # 重置目录结构
 sh clear.sh
