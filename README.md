@@ -4,14 +4,14 @@
 
 ## 目录结构介绍
 .  
-├── APK Bale.sh [重新打包脚本]  
-├── APK Crack.sh [反编译脚本]  
-├── clear.sh [重置目录结构]  
-├── jar [生成jar包存放处]  
-├── lib [引用文件]  
+├── APK Bale.sh     [重新打包脚本]  
+├── APK Crack.sh    [反编译脚本]  
+├── clear.sh        [重置目录结构]  
+├── jar             [生成jar包存放处]  
+├── lib             [引用文件]  
 ├── README.md  
-├── smail [生成smail文件存放处]  
-└── unzip [解压文件存放处]  
+├── smail           [生成smail文件存放处]  
+└── unzip           [解压文件存放处]  
 
 
 ## Use
